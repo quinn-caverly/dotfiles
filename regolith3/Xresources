@@ -1,0 +1,21 @@
+regolith.wallpaper.file:
+regolith.wallpaper.color.primary:
+
+wm.gaps.inner.size: 10
+wm.gaps.outer.size: 2
+wm.window.border.size: 2
+
+wm.workspace.01.name: 1:music
+wm.workspace.02.name: 2:xournal
+wm.workspace.03.name: 3:terminal
+wm.workspace.04.name: 4:personal
+wm.workspace.05.name: 5:school
+wm.workspace.06.name: 6:files
+wm.workspace.07.name: 7:jetbrains
+wm.workspace.08.name: 8:vscode
+wm.workspace.10.name: 10:content
+
+wm.bar.mode: hide
+
+!regolith.look.path: /usr/share/regolith-look/dracula
+regolith.look.path: /usr/share/regolith-look/nord
